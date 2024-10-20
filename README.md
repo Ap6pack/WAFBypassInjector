@@ -22,7 +22,7 @@ The extension adds a new option to the context menu when right-clicking inside t
 2. Install [Jython](https://repo1.maven.org/maven2/org/python/jython-standalone/2.7.4/jython-standalone-2.7.4.jar) for running Python-based extensions in Burp Suite.
 3. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/WAFBypassInjector.git
+   git clone https://github.com/Ap6pack/WAFBypassInjector.git
    ```
 4. Load the extension into Burp Suite:
    - Open Burp Suite > Extensions > Add.
