@@ -27,7 +27,7 @@ The extension adds a new option to the context menu when right-clicking inside t
 4. Load the extension into Burp Suite:
    - Open Burp Suite > Extensions > Add.
    - Select "Python" as the extension type.
-   - Browse to the `src/YourExtension.py` file in this repository.
+   - Browse to the `src/WAFBypassInjector.py` file in this repository.
 
 ## Usage
 1. Right-click inside the HTTP request editor in Burp Suite.
