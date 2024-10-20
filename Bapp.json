@@ -1,0 +1,9 @@
+{
+  "name": "WAFBypassInjector",
+  "version": "1.0",
+  "author": "Adam Rhys Heaton",
+  "description": "An extension to inject random text into request bodies, designed for bypassing WAFs.",
+  "url": "https://github.com/Ap6pack/WAFBypassInjector",
+  "issuesUrl": "https://github.com/Ap6pack/WAFBypassInjector/issues",
+  "burpVersion": "2024.8.5"
+}
