@@ -36,7 +36,7 @@ The extension adds a new option to the context menu when right-clicking inside t
 4. The generated random text will be inserted into the request body.
 
 ## Screenshots
-(Add screenshots here to show how the extension works in Burp Suite.)
+![Extention in action](https://github.com/Ap6pack/WAFBypassInjector/blob/main/images/image.gif)
 
 ## Contribution and Reporting Issues
 If you encounter any bugs or have suggestions for improvements, please report them via the [GitHub issues page](https://github.com/YourUsername/WAFBypassInjector/issues).
