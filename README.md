@@ -39,7 +39,7 @@ The extension adds a new option to the context menu when right-clicking inside t
 ![Extention in action](https://github.com/Ap6pack/WAFBypassInjector/blob/main/images/image.gif)
 
 ## Contribution and Reporting Issues
-If you encounter any bugs or have suggestions for improvements, please report them via the [GitHub issues page](https://github.com/YourUsername/WAFBypassInjector/issues).
+If you encounter any bugs or have suggestions for improvements, please report them via the [GitHub issues page](https://github.com/Ap6pack/WAFBypassInjector/issues).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
