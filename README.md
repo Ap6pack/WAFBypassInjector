@@ -10,7 +10,7 @@ The "WAFBypassInjector" Burp Suite extension allows users to inject random strin
 - Ideal for bypassing WAFs and testing server behavior under various payload sizes.
 
 ## How It Works
-The extension adds a new option to the context menu when right-clicking inside the HTTP request editor. After selecting "WAFBypassInjector," the user is prompted to specify how many kilobytes of random text to generate. The text is then inserted into the request body.
+The extension adds a new option, "WAFBypassInjector," to the context menu when right-clicking within either an intercepted request or a request in the Repeater tab. After selecting this option, the user is prompted to specify the number of kilobytes of random text to generate. The generated text is then inserted into the request body.
 
 ## Requirements
 - Burp Suite (Community or Professional)
@@ -30,7 +30,7 @@ The extension adds a new option to the context menu when right-clicking inside t
    - Browse to the `src/WAFBypassInjector.py` file in this repository.
 
 ## Usage
-1. Right-click inside the HTTP request editor in Burp Suite.
+1. Right-click inside the request.
 2. Select "WAFBypassInjector."
 3. Enter the number of kilobytes (KB) of random text you want to insert.
 4. The generated random text will be inserted into the request body.
